@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Atul Chauhan</h1>
-<h3 align="center">Just a boy with his internet connection improving coding skills to contribute in this tech era to empower it</h3>
+# Atul Chauhan
+I'm Atul Chauhan from India, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general. 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atulchauhanrajput12&label=Profile%20views&color=0e75b6&style=flat" alt="atulchauhanrajput12" /> </p>
 
