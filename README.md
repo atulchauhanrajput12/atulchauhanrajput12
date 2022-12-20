@@ -2,6 +2,11 @@
 <h3 align="center">Just a boy with his internet connection improving coding skills to contribute in this tech era to empower it</h3>
 
 <img align="right" alt="coding" width="400" src ="D:\Github Profile\techstack.gif">
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+</p>
+<hr/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atulchauhanrajput12&label=Profile%20views&color=0e75b6&style=flat" alt="atulchauhanrajput12" /> </p>
 
