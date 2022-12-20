@@ -18,4 +18,14 @@ Visitors count :
 [![Gmail Badge](https://img.shields.io/badge/-atulchauhanrajput12-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:officialatul121@gmail.com)](mailto:officialatul121@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/atul-chauhan-rajput-32471521a/)](https://www.linkedin.com/in/atul-chauhan-rajput-32471521a/)
 <br />
+<br />
+- 🔭 &nbsp; I’m currently working on **my coding skills by contributing to open source projects.**
+- ☘️ &nbsp; I’m currently learning **full stack web development and python**
+- 🤝 &nbsp; I’m looking forward to work in software industry 
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/atul-chauhan-rajput-32471521a/)
+<!-- - 📝 &nbsp; Checkout my [resume]-->
 
+<br>
+
+<img align="right" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" data-canonical-src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
