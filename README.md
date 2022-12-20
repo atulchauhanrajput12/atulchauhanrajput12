@@ -14,7 +14,7 @@ Visitors count :
   <img src="https://profile-counter.glitch.me/atulchauhanrajput12/count.svg" />
 </p>
 
-[![GitHub followers](https://img.shields.io/github/followers/atulchauhanrajput12?label=Follow&style=social)](https://github.com/atulchauhanrajput12/?tab=follow)
+[![GitHub followers](https://img.shields.io/github/followers/atulchauhanrajput12?label=Follow&style=social)](https://github.com/officialatul121/?tab=follow)
 [![Gmail Badge](https://img.shields.io/badge/-atulchauhanrajput12-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:officialatul121@gmail.com)](mailto:officialatul121@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/atul-chauhan-rajput-32471521a/)](https://www.linkedin.com/in/atul-chauhan-rajput-32471521a/)
 <br />
