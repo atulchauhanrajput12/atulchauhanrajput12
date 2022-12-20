@@ -88,9 +88,8 @@ Visitors count :
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_atul_rajput_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_atul_rajput_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/atul-chauhan-rajput-32471521a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/atul-chauhan-rajput-32471521a/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/atul-chauhan-rajput-32471521a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atul-chauhan-rajput-32471521a/" height="30" width="40" /></a>
 <a href="https://fb.com/atulchauhanrajput01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="atulchauhanrajput01" height="30" width="40" /></a>
 <a href="https://instagram.com/_atul_chauhan_rajput_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_atul_chauhan_rajput_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@atulchauhanrajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@atulchauhanrajput" height="30" width="40" /></a>
 </p>
-
